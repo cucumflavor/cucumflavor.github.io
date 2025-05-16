@@ -20,4 +20,7 @@ document.getElementById("fikBtn").addEventListener("click", function() {
     window.location.href = "https://shop.fiker.top";
 });
 
+document.getElementById("stuBtn").addEventListener("click", function() {
+    window.location.href = "https://main.flavor.ink/studio";
+});
 
